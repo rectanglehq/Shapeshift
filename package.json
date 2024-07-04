@@ -1,0 +1,16 @@
+{
+    "name": "shapeshift",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.ts",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+
+      "cohere-ai": "^7.8.0",
+      "axios": "^1.7.2",
+      "openai": "^4.8.0"
+    }
+  }
+  
