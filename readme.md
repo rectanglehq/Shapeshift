@@ -13,7 +13,7 @@ Shapeshift is a TypeScript library that maps arbitrarily structured JSON objects
 ## Installation
 
 ```bash
-npm install shapeshift-embeddings
+npm install @rectanglehq/shapeshift
 ```
 
 Ensure you have an API key from your chosen embedding provider (Cohere, OpenAI, or Voyage).
