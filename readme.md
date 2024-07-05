@@ -4,6 +4,10 @@
 
 Shapeshift is a TypeScript library that maps arbitrarily structured JSON objects using vector embeddings. It uses semantic similarity to match keys between objects, allowing for flexible and intelligent object transformation, including support for nested structures.
 
+
+<img src="graphic.png" width="648"/>
+
+
 ## Features
 
 - Map objects with different structures based on semantic similarity of keys
